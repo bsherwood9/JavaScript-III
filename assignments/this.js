@@ -13,6 +13,7 @@
 
 // code example for Window Binding
 console.log(this);
+
 // Principle 2
 const newObj = {
   silly: "Bananas",
